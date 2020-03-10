@@ -1,0 +1,1 @@
+breakpointR::breakpointr(inputfolder='Downsampling/BAM_downsampled',outputfolder='Downsampling/BreakpointRData',pairedEndReads = T,windowsize=100, binMethod='reads')

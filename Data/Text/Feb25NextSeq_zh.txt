@@ -1,0 +1,73 @@
+Library	SCE_count_downSamp350k	Read_count_after_downSamp	SCE_big	SCE_small	SCE_total	SCE_original_count	ploidy	quality_vh	Reads_aligned_prefiltering	Duplication_rate	Coverage	Background	Reads_per_Mb	Percent_WC	Mode_GC	Mode_insert_size	Sequencing_for_5_percent_coverage	Reads_aligned_postfiltering	SCE_quality_zh
+zeid_BLM_UV300s_hoechst3_cluster14_well10_S451_	8	350000	11	4	15	21	2	g	5960781	34.00%	8.50%	5.10%	580	45.80%	41%	152	0.2	5372938	21
+zeid_BLM_UV300s_hoechst3_cluster14_well11_S452_	NA	NA	NA	NA	NA	NA	NA	p	9809	28.70%	0.00%	0.00%	1	66.70%	45%	154	NA	8250	poor library
+zeid_BLM_UV300s_hoechst3_cluster14_well12_S453_	NA	NA	NA	NA	NA	NA	NA	p	6281724	28.70%	9.80%	0.00%	632	92.90%	40%	152	0.19	5747038	not SS
+zeid_BLM_UV300s_hoechst3_cluster14_well13_S454_	11	350000	12	5	17	24	2	g	7186797	32.10%	10.50%	3.50%	738	41.10%	40%	149	0.19	6497736	24
+zeid_BLM_UV300s_hoechst3_cluster14_well16_S457_	NA	NA	NA	NA	NA	NA	NA	p	20886	48.60%	0.00%	50.00%	1	45.80%	51%	50	NA	17250	poor library
+zeid_BLM_UV300s_hoechst3_cluster14_well17_S458_	9	350000	9	2	11	13	2	p	547049	10.40%	1.10%	6.40%	72	47.80%	41%	151	0.36	493704	13
+zeid_BLM_UV300s_hoechst3_cluster14_well18_S459_	7	258028	5	0	5	9	2	g	293374	51.00%	0.30%	8.60%	21	45.50%	42%	152	NA	258028	9
+zeid_BLM_UV300s_hoechst3_cluster14_well19_S460_	13	350000	14	6	20	31	2	g	7681025	33.60%	11.10%	2.40%	771	32.30%	39%	152	0.19	6983410	31
+zeid_BLM_UV300s_hoechst3_cluster14_well20_S461_	8	350000	14	5	19	26	2	g	6845173	29.60%	10.40%	4.40%	723	44.20%	40%	149	0.19	6165130	26
+zeid_BLM_UV300s_hoechst3_cluster14_well23_S464_	13	350000	15	2	17	14	2	g	2357900	36.30%	3.2%	4.40%	223	50.80%	42%	150	0.51	2121416	19
+zeid_BLM_UV300s_hoechst3_cluster14_well24_S465_	15	350000	17	2	19	21	2	g	3098463	17.60%	5.60%	2.60%	382	50.70%	39%	153	0.19	2829404	21
+zeid_BLM_UV300s_hoechst3_cluster14_well25_S466_	NA	NA	NA	NA	NA	NA	NA	p	7130265	8.40%	2.80%	30.00%	191	96.20%	39%	152	NA	1258506	not SS
+zeid_BLM_UV300s_hoechst3_cluster14_well26_S467_	NA	NA	NA	NA	NA	11	2	p	3149865	15.00%	5.80%	12.90%	375	54.10%	40%	150	0.18	2865402	11
+zeid_BLM_UV300s_hoechst3_cluster14_well27_S468_	9	350000	11	2	13	15	2	g	2876321	21.50%	5.00%	2.10%	338	46.80%	38%	156	0.2	2632328	15
+zeid_BLM_UV300s_hoechst3_cluster14_well30_S471_	9	350000	12	2	14	15	2	p	2384453	18.00%	4.30%	3.30%	295	44.40%	40%	151	0.2	2171632	15
+zeid_BLM_UV300s_hoechst3_cluster14_well31_S472_	NA	NA	NA	NA	NA	NA	NA	p	75373	52.30%	0.10%	36.40%	5	57.70%	44%	154	NA	62914	poor library
+zeid_BLM_UV300s_hoechst3_cluster14_well32_S473_	7	350000	8	2	10	9	2	p	8908457	41.00%	11.50%	4.70%	798	45.70%	39%	152	0.19	8144792	9
+zeid_BLM_UV300s_hoechst3_cluster14_well33_S474_	9	350000	12	4	16	17	2	g	2881948	22.30%	4.90%	1.80%	342	45.30%	39%	154	0.21	2631682	17
+zeid_BLM_UV300s_hoechst3_cluster14_well34_S475_	8	350000	8	7	15	15	2	g	1628024	10.60%	3.20%	3.50%	219	38.70%	39%	151	0.19	1479684	15
+zeid_BLM_UV300s_hoechst3_cluster14_well37_S478_	NA	NA	NA	NA	NA	NA	NA	p	5639	48.00%	0.00%	0.00%	0	62.50%	50%	159	NA	4738	poor library
+zeid_BLM_UV300s_hoechst3_cluster14_well38_S479_	NA	NA	NA	NA	NA	NA	2	p	6052700	29.30%	9.40%	0.00%	637	96.20%	39%	152	0.19	5522120	not SS
+zeid_BLM_UV300s_hoechst3_cluster14_well39_S480_	NA	NA	NA	NA	NA	NA	2	p	2241936	11.80%	4.30%	13.40%	283	50.00%	42%	153	0.19	2038408	poor library
+zeid_BLM_UV300s_hoechst3_cluster14_well40_S481_	11	350000	11	6	17	13	2	g	4078701	21.00%	7.00%	3.70%	497	44.50%	40%	148	0.19	3706172	13
+zeid_BLM_UV300s_hoechst3_cluster14_well41_S482_	6	350000	6	2	8	9	2	g	1349817	9.10%	2.70%	2.50%	186	48.10%	39%	153	0.19	1233530	9
+zeid_RECQ5_UV300s_hoechst3_cluster15_well10_S500_	6	350000	NA	NA	NA	10	2	p	1172379	7.40%	2.40%	7.20%	158	36.50%	41%	149	0.19	1064380	10
+zeid_RECQ5_UV300s_hoechst3_cluster15_well11_S501_	NA	NA	NA	NA	NA	NA	NA	p	3626	3.80%	0.00%	0.00%	0	65.20%	42%	149	>2	3296	poor library
+zeid_RECQ5_UV300s_hoechst3_cluster15_well12_S502_	7	350000	NA	NA	NA	NA	2	p	1108464	6.90%	2.20%	17.30%	153	58.00%	40%	151	0.19	1004878	poor library
+zeid_RECQ5_UV300s_hoechst3_cluster15_well13_S503_	12	350000	15	2	17	14	2	g	1278947	8.30%	2.50%	9.60%	177	46.70%	40%	149	NA	1159890	14
+zeid_RECQ5_UV300s_hoechst3_cluster15_well16_S506_	8	350000	9	2	11	8	2	g	508048	3.20%	1.10%	10.50%	73	64.70%	43%	149	0.19	458004	8
+zeid_RECQ5_UV300s_hoechst3_cluster15_well17_S507_	NA	335536	NA	NA	NA	NA	2	p	369841	3.20%	0.80%	10.20%	52	48.80%	41%	153	0.2	335536	poor library
+zeid_RECQ5_UV300s_hoechst3_cluster15_well18_S508_	NA	350000	NA	NA	NA	NA	2	p	418661	4.20%	0.90%	15.30%	58	57.10%	39%	150	NA	382092	poor library
+zeid_RECQ5_UV300s_hoechst3_cluster15_well19_S509_	5	350000	8	2	10	9	2	g	1393019	8.60%	2.80%	13.70%	192	54.00%	41%	149	0.19	1262762	9
+zeid_RECQ5_UV300s_hoechst3_cluster15_well20_S510_	6	350000	8	4	12	13	2	g	941251	7.50%	1.90%	6.00%	131	50.00%	39%	153	0.2	857508	13
+zeid_RECQ5_UV300s_hoechst3_cluster15_well23_S513_	8	349536	10	0	10	13	2	g	386369	2.90%	0.80%	5.10%	56	53.20%	41%	150	0.2	349536	13
+zeid_RECQ5_UV300s_hoechst3_cluster15_well24_S514_	8	350000	9	2	11	16	2	g	839030	5.80%	1.70%	10.00%	118	44.90%	41%	151	NA	761276	16
+zeid_RECQ5_UV300s_hoechst3_cluster15_well25_S515_	7	350000	9	4	13	11	2	g	1358790	9.20%	2.70%	7.20%	186	53.80%	39%	151	0.19	1234952	11
+zeid_RECQ5_UV300s_hoechst3_cluster15_well26_S516_	10	350000	11	2	13	12	2	g	776901	5.10%	1.60%	10.60%	110	52.10%	40%	150	0.19	701866	12
+zeid_RECQ5_UV300s_hoechst3_cluster15_well27_S517_	5	350000	6	0	6	6	2	g	575296	4.90%	1.20%	8.50%	80	56.10%	40%	151	0.21	521150	6
+zeid_RECQ5_UV300s_hoechst3_cluster15_well30_S520_	8	350000	9	2	11	14	2	g	485720	3.80%	1.00%	9.50%	70	45.20%	41%	150	NA	438986	14
+zeid_RECQ5_UV300s_hoechst3_cluster15_well31_S521_	8	350000	7	2	9	10	2	g	976802	7.30%	2.00%	7.20%	135	44.00%	38%	154	0.2	888240	10
+zeid_RECQ5_UV300s_hoechst3_cluster15_well32_S522_	6	350000	7	1	8	18	2	g	1490230	9.60%	3.00%	5.20%	207	36.70%	39%	152	0.19	1361648	18
+zeid_RECQ5_UV300s_hoechst3_cluster15_well33_S523_	NA	NA	NA	NA	NA	NA	NA	p	620	0.80%	0.00%	50.00%	0	34.80%	42%	155	NA	530	poor library
+zeid_RECQ5_UV300s_hoechst3_cluster15_well34_S524_	NA	NA	NA	NA	NA	NA	NA	p	200	1.20%	0.00%	33.30%	0	17.40%	41%	151	NA	172	poor library
+zeid_RECQ5_UV300s_hoechst3_cluster15_well37_S527_	4	350000	5	6	11	12	2	g	819916	7.40%	1.60%	9.60%	114	34.00%	40%	149	0.21	739224	12
+zeid_RECQ5_UV300s_hoechst3_cluster15_well38_S528_	7	350000	6	2	8	12	2	g	1080158	6.80%	2.20%	9.90%	151	53.30%	41%	150	0.19	976904	12
+zeid_RECQ5_UV300s_hoechst3_cluster15_well39_S529_	NA	NA	NA	NA	NA	NA	NA	p	579260	4.80%	1.20%	16.90%	81	61.50%	40%	151	0.2	527404	poor library
+zeid_RECQ5_UV300s_hoechst3_cluster15_well40_S530_	NA	NA	NA	NA	NA	NA	NA	p	578	7.00%	0.00%	50.00%	0	52.20%	45%	147	NA	512	poor library
+zeid_RECQ5_UV300s_hoechst3_cluster15_well41_S531_	NA	NA	NA	NA	NA	NA	NA	p	134242	2.60%	0.30%	14.80%	19	51.60%	40%	149	0.32	122610	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well10_S402_	4	350000	6	4	10	9	1	g	2367546	19.40%	4.10%	7.20%	284	25.30%	41%	148	0.21	2132524	9
+zeid_WT_UV300s_hoechst3_cluster13_well11_S403_	3	350000	NA	NA	NA	3	1	p	1370709	13.90%	2.50%	10.00%	173	39.40%	41%	149	0.23	1238534	3
+zeid_WT_UV300s_hoechst3_cluster13_well12_S404_	NA	NA	NA	NA	NA	NA	NA	p	2662	7.10%	0.00%	0.00%	0	60.90%	44%	150	NA	2296	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well13_S405_	NA	NA	NA	NA	NA	NA	NA	p	3554	0.60%	0.00%	0.00%	0	26.10%	42%	152	NA	3096	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well16_S408_	5	350000	4	0	4	4	1	p	724148	12.60%	1.40%	9.90%	92	32.90%	41%	148	0.35	652386	4
+zeid_WT_UV300s_hoechst3_cluster13_well17_S409_	NA	NA	NA	NA	NA	NA	NA	p	155	0.00%	0.00%	21.40%	0	26.30%	46%	152	NA	126	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well18_S410_	0	350000	0	2	2	0	1	g	1247546	13.40%	2.30%	8.90%	160	22.60%	42%	148	0.23	1124318	0
+zeid_WT_UV300s_hoechst3_cluster13_well19_S411_	NA	NA	NA	NA	NA	NA	1	p	1464843	17.50%	2.60%	17.70%	163	44.20%	40%	148	0.25	1338440	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well20_S412_	0	350000	NA	NA	NA	NA	1	p	1624745	14.10%	3.00%	9.30%	206	41.00%	41%	148	0.21	1463206	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well23_S415_	NA	NA	NA	NA	NA	NA	NA	p	936	12.00%	0.00%	0.00%	0	45.80%	50%	164	NA	820	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well24_S416_	4	24968	4	2	6	7	1	g	272214	4.10%	0.60%	6.80%	38	8.10%	41%	148	0.27	244968	7
+zeid_WT_UV300s_hoechst3_cluster13_well25_S417_	NA	NA	NA	NA	NA	NA	1	p	919	8.10%	0.00%	25.00%	0	47.80%	43%	165	NA	794	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well26_S418_	3	350000	NA	NA	NA	NA	1	b	712564	10.00%	1.40%	14.50%	111	26.80%	43%	148	0.27	654020	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well27_S419_	1	350000	1	2	3	3	1	g	814103	12.10%	1.50%	9.40%	106	29.20%	41%	147	0.29	733194	3
+zeid_WT_UV300s_hoechst3_cluster13_well30_S422_	NA	NA	NA	NA	NA	NA	NA	p	629813	8.00%	1.30%	31.50%	79	20.70%	41%	148	0.24	573792	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well31_S423_	NA	NA	NA	NA	NA	NA	NA	p	1758	7.50%	0.00%	50.00%	0	66.70%	48%	159	NA	1552	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well32_S424_	NA	NA	NA	NA	NA	NA	NA	p	2900	0.50%	0.00%	0.00%	0	60.90%	41%	151	NA	2596	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well33_S425_	1	350000	3	0	3	3	1	p	1211084	23.20%	2.00%	8.90%	138	25.40%	41%	147	0.61	1095528	3
+zeid_WT_UV300s_hoechst3_cluster13_well34_S426_	1	282330	1	2	3	1	1	g	312818	5.70%	0.60%	6.10%	44	13.50%	41%	148	0.32	282330	1
+zeid_WT_UV300s_hoechst3_cluster13_well37_S429_	6	350000	8	2	10	5	1	g	932954	9.10%	1.80%	6.90%	126	24.20%	41%	148	0.22	838090	5
+zeid_WT_UV300s_hoechst3_cluster13_well38_S430_	NA	NA	NA	NA	NA	NA	NA	p	519	0.00%	0.00%	0.00%	0	30.40%	47%	151	NA	440	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well39_S431_	NA	NA	NA	NA	NA	NA	NA	p	278	0.00%	0.00%	0.00%	0	31.80%	48%	139	NA	222	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well40_S432_	NA	NA	NA	NA	NA	NA	NA	p	555	1.40%	0.00%	16.70%	0	8.70%	45%	156	NA	426	poor library
+zeid_WT_UV300s_hoechst3_cluster13_well41_S433_	NA	NA	NA	NA	NA	NA	NA	p	55870	3.10%	0.10%	32.20%	8	17.90%	40%	148	>2	50428	poor library
