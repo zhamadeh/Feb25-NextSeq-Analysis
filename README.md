@@ -6,7 +6,7 @@ Because of different sequencing depths among libraries, the following analysis t
 ## Results
 
 #### Counts of SCE events in three samples normalized by ploidy
-![](https://github.com/zhamadeh/Feb25-NextSeq-Analysis/blob/master/Plots/unfilteredCounts.png =100x20)
+![](https://github.com/zhamadeh/Feb25-NextSeq-Analysis/blob/master/Plots/unfilteredCounts.png)
 
 #### Counts of SCE events in three samples normalized by ploidy and read count (down sampled to 350k)
 ![](https://github.com/zhamadeh/Feb25-NextSeq-Analysis/blob/master/Plots/downSamp300k_ploidyNorm.png)
