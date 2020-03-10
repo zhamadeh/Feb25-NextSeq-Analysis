@@ -3,3 +3,12 @@ On February 25th, we sequenced 24 libraries from three different samples: one *B
 
 Because of different sequencing depths among libraries, the following analysis takes a downsampling approach to normalize the level of reads to a constant level (350k reads in this case, but can be higher). Libraries were also normalized by ploidy (the WT line is haploid while the other two are diploid.
 
+## Results
+
+#### Counts of SCE events in three samples normalized by ploidy
+![](https://github.com/zhamadeh/Feb25-NextSeq-Analysis/blob/master/Plots/unfilteredCounts.png)
+
+#### Counts of SCE events in three samples normalized by ploidy and read count (down sampled to 350k)
+![](https://github.com/zhamadeh/Feb25-NextSeq-Analysis/blob/master/Plots/downSamp300k_ploidyNorm.png)
+
+
