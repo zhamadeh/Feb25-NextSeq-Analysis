@@ -7,5 +7,6 @@ Because of different sequencing depths among libraries, the following analysis t
 
 #### Unfiltered/normalized counts of SCE events in three samples
 ![](https://github.com/zhamadeh/Feb25-NextSeq-Analysis/blob/master/Plots/unfilteredCounts.png)
+![](https://github.com/zhamadeh/Feb25-NextSeq-Analysis/blob/master/Plots/downSamp300k_ploidyNorm.png)
 
 
