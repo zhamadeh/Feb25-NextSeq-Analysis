@@ -7,7 +7,7 @@ library(dplyr)
 library(ggpubr)
 
 #load data
-nextseq <- data.frame(read.table("/Users/zeidh/Desktop/Feb\ 25\ NextSeq/Feb25NextSeq.txt",header=T,fill=T,sep="\t"))
+nextseq <- data.frame(read.table("/Users/zeidh/Desktop/Feb25NextSeqRun/Data/Text/Feb25NextSeq.txt",header=T,fill=T,sep="\t"))
 
 
 #clean up data
@@ -47,14 +47,14 @@ plot <- function(data,x,y,color){
 }
 
 
-ggboxplot(nextseq, x = "gene", y = "norm_sce",
+ggboxplot(nextseq, x = "gene", y = "SCE_total",
 		  color = "gene",
 		  palette = c("#0BAE7C", "#D88907", "#AE0B3D"),
 		  fill= c("#85D6BE","#E7B564","#CC6786"),
 		  add = "jitter") +
-	stat_compare_means(method = "anova", label.y = 5e-05) +      # Add global p-value
-	stat_compare_means(label = "p.signif", method = "t.test",ref.group = ".all.")  +
-	ggsave("normalized_sce.png")# Pairwise comparison against reference     # Add global p-value
+	stat_compare_means(method = "anova", label.y = 25) +      # Add global p-value
+	stat_compare_means(label = "p.signif", method = "t.test",ref.group = "WT")  +
+	ggsave("Plots/unfilteredCounts.png")# Pairwise comparison against reference     # Add global p-value
 
 ggboxplot(nextseq,"gene", "SCE_norm_ploidy",
 		color="gene",
@@ -64,7 +64,7 @@ ggboxplot(nextseq,"gene", "SCE_norm_ploidy",
 		stat_compare_means(method = "anova", label.y = 9
 						) +      # Add global p-value
 		stat_compare_means(label = "p.signif", method = "t.test",ref.group = "WT")# +
-		ggsave("downSamp300k_ploidyNorm.png")# Pairwise comparison against reference     # Add global p-value
+		ggsave("Plots/downSamp300k_ploidyNorm.png")# Pairwise comparison against reference     # Add global p-value
 
 
 
